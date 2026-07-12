@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🧮 Simple Python Calculator
 
-<!--
-**Aniketom/Aniketom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Description
+This is a beginner-friendly calculator built using Python.
 
-Here are some ideas to get you started:
+It performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+The program also handles invalid inputs and prevents division by zero.
+---
+## 🛠️ Technologies Used
+- Python 3
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ▶️ How to Run
+1. Install Python.
+2. Open a terminal.
+3. Run:
+
+```bash
+python calculator.py
+```
+---
+## 📚 Concepts Used
+- Variables
+- User Input
+- if-else Statements
+- while Loop
+- Exception Handling
+- Mathematical Operations
+---
+## 🎯 Future Improvements
+- GUI using Tkinter
+- Scientific Calculator
+- History Feature
+- Dark Mode Interface
